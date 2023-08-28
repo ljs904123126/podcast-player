@@ -1,0 +1,340 @@
+﻿1
+00:00:00,000 --> 00:00:02,000
+This is the BBC.
+
+2
+00:00:02,000 --> 00:00:07,000
+This podcast is supported by advertising outside the UK.
+
+3
+00:00:07,000 --> 00:00:12,000
+From global current affairs to art, science and culture.
+
+4
+00:00:12,000 --> 00:00:18,000
+The documentary from the BBC World Service tells the world's stories.
+
+5
+00:00:18,000 --> 00:00:23,000
+Search for The Documentary wherever you get your BBC podcasts.
+
+6
+00:00:26,000 --> 00:00:30,000
+Hello and welcome to More or Less on the BBC World Service.
+
+7
+00:00:30,000 --> 00:00:33,000
+We're your weekly guide to the numbers in the news and in life.
+
+8
+00:00:33,000 --> 00:00:35,000
+I'm Charlotte McDonald.
+
+9
+00:00:35,000 --> 00:00:44,000
+Tonight at ten, the FBI has arrested a suspect in the worst leak of secret US intelligence documents in years.
+
+10
+00:00:44,000 --> 00:00:46,000
+We're going live to the Pentagon.
+
+11
+00:00:46,000 --> 00:00:55,000
+That's where the spokesman, Patrick Ryder, is taking questions and speaking right now on the origins of leaked documents that have been made public.
+
+12
+00:00:55,000 --> 00:01:02,000
+Under arrest, a member of the Air National Guard suspected in the unprecedented leak of America's secrets.
+
+13
+00:01:02,000 --> 00:01:12,000
+The leaking of US intelligence documents and the arrest of a 21-year-old airman who authorities believe to be responsible has caused a media and diplomatic storm.
+
+14
+00:01:12,000 --> 00:01:19,000
+Many of the documents, some of which are marked top secret, paint a detailed picture of the war in Ukraine.
+
+15
+00:01:19,000 --> 00:01:28,000
+The leaks have been widely reported, including by US channel Fox News, many of whose hosts have been critical of the American government's policy in Ukraine.
+
+16
+00:01:28,000 --> 00:01:33,000
+This is what Fox News primetime host Tucker Carlson had to say about what the leak showed.
+
+17
+00:01:33,000 --> 00:01:40,000
+The second thing we learn from these slides is that despite direct US involvement, Ukraine is in fact losing the war.
+
+18
+00:01:40,000 --> 00:01:48,000
+Seven Ukrainians are being killed for every Russian. Ukrainian air defences have been utterly degraded. Ukraine is losing.
+
+19
+00:01:48,000 --> 00:02:00,000
+So, according to Tucker Carlson, the leaked presentation slides show seven Ukrainians are being killed for every one Russian, which would be a pretty shocking finding.
+
+20
+00:02:00,000 --> 00:02:10,000
+If those figures were true, then it'd be pretty catastrophic for the Ukrainians because I'm not like a war expert, but when you defend your own land, you usually give a lot more casualties out than you take.
+
+21
+00:02:10,000 --> 00:02:22,000
+Eric Toler has been working on the leaked document story. He's director of research and training for Bellingcat, an investigative journalism site that specialises in using open source intelligence.
+
+22
+00:02:22,000 --> 00:02:29,000
+It's played a leading role in tracing the spread of the leaked documents on social media platforms like Discord and Telegram.
+
+23
+00:02:29,000 --> 00:02:38,000
+The first job was to work out whether they really were US intelligence documents. They seemed legitimate, but there was one that appeared to have been altered.
+
+24
+00:02:38,000 --> 00:02:42,000
+It was just one single document that was modified very crudely and it's very obvious that it was fake.
+
+25
+00:02:42,000 --> 00:02:47,000
+The fake document was the one that discussed Russian and Ukrainian casualties.
+
+26
+00:02:47,000 --> 00:02:53,000
+There was one single file that was modified related to casualty figures of the Ukrainian and Russian militaries.
+
+27
+00:02:53,000 --> 00:03:02,000
+This was modified over a month after the file was initially released on Discord and it was just some Telegram channel, not like a Russian government source.
+
+28
+00:03:02,000 --> 00:03:12,000
+So this could be as simple as one pro-Russian user very crudely photoshopping one section of one image to make Ukraine look worse and Russia look better.
+
+29
+00:03:12,000 --> 00:03:18,000
+The numbers are off-centre, they're not quite spaced correctly and it's just kind of crude. It's as if I did it.
+
+30
+00:03:18,000 --> 00:03:26,000
+So on the original undoctored image, the number of Russian troops killed is more than double the number of Ukrainian soldiers killed.
+
+31
+00:03:26,000 --> 00:03:34,000
+But on the crudely doctored slide, the Russian losses have been reduced and the Ukrainian troop deaths have been vastly increased.
+
+32
+00:03:34,000 --> 00:03:37,000
+So all of a sudden Ukraine has a lot more deaths.
+
+33
+00:03:37,000 --> 00:03:46,000
+But despite Tucker Carlson saying the slides contain evidence of a seven to one kill rate, even the doctored figures don't show that.
+
+34
+00:03:46,000 --> 00:03:52,000
+We tried to get Fox News to give us any more information about this claim, but we received no response.
+
+35
+00:03:52,000 --> 00:04:00,000
+Eric believes it doesn't matter whether the mistake was made by Carlson or his producer, such an error should have been avoided.
+
+36
+00:04:00,000 --> 00:04:08,000
+If you're a producer on a TV show, you should theoretically be able to fact check the stuff that you're citing in your report, but some people are better about it than others, to put it politely.
+
+37
+00:04:08,000 --> 00:04:18,000
+Even if we can completely dismiss Tucker Carlson's claim about the casualty numbers in these leaked documents, how reliable are the numbers that US intelligence are quoting?
+
+38
+00:04:18,000 --> 00:04:24,000
+The BBC's Russian service has been compiling a list of Russian service personnel killed in the conflict.
+
+39
+00:04:24,000 --> 00:04:35,000
+Senior correspondent Olga Ivshena says the US estimate of Russians killed in action, up to 43,500, seems to tally with their own work.
+
+40
+00:04:35,000 --> 00:04:37,000
+She explained how they calculate their figures.
+
+41
+00:04:37,000 --> 00:04:44,000
+Our primary goal is to count all the Russian losses, so Russian personnel killed in action.
+
+42
+00:04:44,000 --> 00:04:48,000
+And we do so by gathering all the publicly valuable information.
+
+43
+00:04:48,000 --> 00:05:00,000
+So first of all, it's different media reports from different outlets in Russia, heads of local schools, heads of local libraries, heads of villages, tiny regional newspapers.
+
+44
+00:05:00,000 --> 00:05:08,000
+On top of that, we monitor Russian social media and when relatives of a certain person who died during the invasion.
+
+45
+00:05:08,000 --> 00:05:15,000
+And another very important source of information are different memorials, monuments and graveyards.
+
+46
+00:05:15,000 --> 00:05:23,000
+So we have an opportunity to monitor situation in over 60 cemeteries all over Russia.
+
+47
+00:05:23,000 --> 00:05:34,000
+So compiling that all together, we currently have a database of 21,000 Russian servicemen who were killed during the invasion.
+
+48
+00:05:34,000 --> 00:05:43,000
+As we monitor situation on the cemeteries, we see that each time we get access there, we see all the names which were mentioned in the public domain.
+
+49
+00:05:43,000 --> 00:05:52,000
+And on top of that, usually the similar amount of names which clearly died during the invasion, but they weren't mentioned publicly.
+
+50
+00:05:52,000 --> 00:06:03,000
+Based on that, we think that our database has 50% less names than the real number of Russian military casualties figure which were buried in Russia.
+
+51
+00:06:03,000 --> 00:06:16,000
+So if currently we have names of 21,000 Russian soldiers killed in action, our assessment is that total number of Russian casualties, so killed only, must be around 42,000.
+
+52
+00:06:16,000 --> 00:06:21,000
+Fox News itself has been in the headlines in the last few days.
+
+53
+00:06:21,000 --> 00:06:26,000
+It was due to defend itself in a giant defamation case brought by Dominion Voting Systems,
+
+54
+00:06:26,000 --> 00:06:33,000
+who alleged that Fox aired false claims that Dominion's voting machines helped steal the election from Donald Trump.
+
+55
+00:06:33,000 --> 00:06:43,000
+The case was settled at the last minute, but the day before it was due to start, Fox News took out a full-page ad in the New York Times with the headline,
+
+56
+00:06:43,000 --> 00:06:45,000
+"Trusted now more than ever."
+
+57
+00:06:45,000 --> 00:06:51,000
+It then goes on to list what it says are the TV network's most trusted for news.
+
+58
+00:06:51,000 --> 00:07:06,000
+Fox News itself is at the top of the bar chart with 41%, trailed by ABC News on 24%, CNN and CBS on 22%, NBC on 21% and MSNBC on 18%.
+
+59
+00:07:06,000 --> 00:07:08,000
+So you might think that's pretty clear.
+
+60
+00:07:08,000 --> 00:07:14,000
+If you ask Americans which news channel they trust the most, the answer is Fox News.
+
+61
+00:07:14,000 --> 00:07:21,000
+But actually, that is the opposite of what you find, according to Elliot Morris, a senior data journalist for The Economist.
+
+62
+00:07:21,000 --> 00:07:28,000
+If you just ask Americans which news network do you trust the most, then Fox News actually scores very poorly.
+
+63
+00:07:28,000 --> 00:07:38,000
+Whereas things like the BBC, ABC, CNN have about 40% of Americans saying those sources are very trustworthy or somewhat trustworthy,
+
+64
+00:07:38,000 --> 00:07:47,000
+Fox News scores closer to 30% and they have a lot more Americans saying they're untrustworthy than those mainstream news sources.
+
+65
+00:07:47,000 --> 00:07:52,000
+So the reality seems to be pretty significantly different than the advertisement they took out.
+
+66
+00:07:52,000 --> 00:07:58,000
+So how does the advertisement suggest something so different? Well, look at the small print.
+
+67
+00:07:58,000 --> 00:08:02,000
+It seems what Fox News has done is not ask one question, but two questions.
+
+68
+00:08:02,000 --> 00:08:10,000
+Which of the following networks do you watch? And then they've listed all of the major news networks, so Fox, ABC, CNN, right, a couple of others.
+
+69
+00:08:10,000 --> 00:08:20,000
+And then, well, they don't tell us how they did this, but my read of them asking the second question is among people who said they watched Fox News,
+
+70
+00:08:20,000 --> 00:08:23,000
+they then asked which news network do you trust the most.
+
+71
+00:08:23,000 --> 00:08:28,000
+And of course, if you watch Fox News, it's one of the only pretty mainstream right-leaning news networks in America.
+
+72
+00:08:28,000 --> 00:08:33,000
+You probably don't trust the other news networks, which you think are too centrist or left-leaning.
+
+73
+00:08:33,000 --> 00:08:42,000
+So, Elliott's take on the advert is, it shows Fox News is the kind of news channel that attracts an audience that agrees with its political outlook and trusts it.
+
+74
+00:08:42,000 --> 00:08:49,000
+It's the most trusted channel by its audience, but one of the least trusted by the general population.
+
+75
+00:08:49,000 --> 00:08:54,000
+We asked Fox News about the advert. They told us that the data is from YouGov.
+
+76
+00:08:54,000 --> 00:09:01,000
+We approached the polling company who say the data used is for media companies to learn more about their audiences only.
+
+77
+00:09:01,000 --> 00:09:06,000
+And these are not the results of any recent nationally representative survey.
+
+78
+00:09:06,000 --> 00:09:09,000
+That's it for this edition of More or Less. We'll be back next week.
+
+79
+00:09:09,000 --> 00:09:16,000
+If you want to get in contact, you can email us at moreorless@bbc.co.uk.
+
+80
+00:09:16,000 --> 00:09:18,000
+But for now, goodbye.
+
+81
+00:09:23,000 --> 00:09:29,000
+Exploring the events shaping our lives through original documentary storytelling.
+
+82
+00:09:29,000 --> 00:09:32,000
+We'll hear arguments in a row against Wade.
+
+83
+00:09:32,000 --> 00:09:37,000
+The documentary from the BBC World Service is a window onto the wider world.
+
+84
+00:09:37,000 --> 00:09:43,000
+The security situation in Europe has changed in the last couple of years dramatically.
+
+85
+00:09:43,000 --> 00:09:48,000
+Search for The Documentary wherever you get your BBC podcasts.
+

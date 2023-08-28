@@ -1,0 +1,1296 @@
+﻿1
+00:00:00,000 --> 00:00:02,000
+This is the BBC.
+
+1
+00:00:00,000 --> 00:00:02,000
+这是英国广播公司。
+
+2
+00:00:03,000 --> 00:00:07,000
+This podcast is supported by advertising outside the UK.
+
+2
+00:00:03,000 --> 00:00:07,000
+该播客由英国境外的广告支持。
+
+3
+00:00:08,000 --> 00:00:12,000
+From global current affairs to art, science and culture,
+
+3
+00:00:08,000 --> 00:00:12,000
+从全球时事到艺术、科学和文化，
+
+4
+00:00:12,000 --> 00:00:17,000
+the documentary from the BBC World Service tells the world's stories.
+
+4
+00:00:12,000 --> 00:00:17,000
+这部来自 BBC World Service 的纪录片讲述了世界的故事。
+
+5
+00:00:17,000 --> 00:00:23,000
+Search for the documentary wherever you get your BBC podcasts.
+
+5
+00:00:17,000 --> 00:00:23,000
+无论您在何处获取 BBC 播客，都可以搜索该纪录片。
+
+6
+00:00:23,000 --> 00:00:30,000
+Hello and welcome to More or Less on the BBC World Service.
+
+6
+00:00:23,000 --> 00:00:30,000
+您好，欢迎收看 BBC World Service 的《或多或少》。
+
+7
+00:00:30,000 --> 00:00:33,000
+We're your weekly guide to the numbers in the news and in life.
+
+7
+00:00:30,000 --> 00:00:33,000
+我们是您了解新闻和生活中的数字的每周指南。
+
+8
+00:00:33,000 --> 00:00:35,000
+I'm Charlotte McDonald.
+
+8
+00:00:33,000 --> 00:00:35,000
+我是夏洛特·麦克唐纳。
+
+9
+00:00:36,000 --> 00:00:40,000
+Tonight at 10, the FBI has arrested a suspect in the worst leak
+
+9
+00:00:36,000 --> 00:00:40,000
+今晚 10 点，FBI 逮捕了最严重泄密事件的一名嫌疑人
+
+10
+00:00:40,000 --> 00:00:44,000
+of secret US intelligence documents in years.
+
+10
+00:00:40,000 --> 00:00:44,000
+多年来的美国秘密情报文件。
+
+11
+00:00:44,000 --> 00:00:46,000
+We're going live to the Pentagon.
+
+11
+00:00:44,000 --> 00:00:46,000
+我们将前往五角大楼进行现场直播。
+
+12
+00:00:46,000 --> 00:00:49,000
+That's where the spokesman Patrick Reiter is taking questions
+
+12
+00:00:46,000 --> 00:00:49,000
+这就是发言人帕特里克·雷特 (Patrick Reiter) 接受提问的地方
+
+13
+00:00:49,000 --> 00:00:55,000
+and speaking right now on the origins of leaked documents that have been made public.
+
+13
+00:00:49,000 --> 00:00:55,000
+现在就已公开的泄露文件的起源发表讲话。
+
+14
+00:00:55,000 --> 00:00:58,000
+Under arrest, a member of the Air National Guard
+
+14
+00:00:55,000 --> 00:00:58,000
+一名空军国民警卫队成员被捕
+
+15
+00:00:58,000 --> 00:01:02,000
+suspected in the unprecedented leak of America's secrets.
+
+15
+00:00:58,000 --> 00:01:02,000
+涉嫌史无前例的美国机密泄露事件。
+
+16
+00:01:02,000 --> 00:01:07,000
+The leaking of US intelligence documents and the arrest of a 21-year-old airman
+
+16
+00:01:02,000 --> 00:01:07,000
+美国情报文件泄露，一名21岁飞行员被捕
+
+17
+00:01:07,000 --> 00:01:12,000
+who authorities believe to be responsible has caused a media and diplomatic storm.
+
+17
+00:01:07,000 --> 00:01:12,000
+当局认为责任人是谁，引发了媒体和外交风暴。
+
+18
+00:01:12,000 --> 00:01:16,000
+Many of the documents, some of which are marked top secret,
+
+18
+00:01:12,000 --> 00:01:16,000
+许多文件，其中一些被标记为绝密，
+
+19
+00:01:16,000 --> 00:01:19,000
+paint a detailed picture of the war in Ukraine.
+
+19
+00:01:16,000 --> 00:01:19,000
+描绘了乌克兰战争的详细画面。
+
+20
+00:01:19,000 --> 00:01:23,000
+The leaks have been widely reported, including by US Channel Fox News,
+
+20
+00:01:19,000 --> 00:01:23,000
+这些泄密事件得到了广泛报道，包括美国福克斯新闻频道、
+
+21
+00:01:23,000 --> 00:01:28,000
+many of whose hosts have been critical of the American government's policy in Ukraine.
+
+21
+00:01:23,000 --> 00:01:28,000
+许多东道主一直批评美国政府在乌克兰的政策。
+
+22
+00:01:28,000 --> 00:01:33,000
+This is what Fox News prime time host Tucker Carlson had to say about what the leaks showed.
+
+22
+00:01:28,000 --> 00:01:33,000
+这是福克斯新闻黄金时段主持人塔克·卡尔森对泄密事件的看法。
+
+23
+00:01:33,000 --> 00:01:37,000
+The second thing we learn from these slides is that despite direct US involvement,
+
+23
+00:01:33,000 --> 00:01:37,000
+我们从这些幻灯片中学到的第二件事是，尽管美国直接参与，
+
+24
+00:01:37,000 --> 00:01:40,000
+Ukraine is in fact losing the war.
+
+24
+00:01:37,000 --> 00:01:40,000
+乌克兰实际上正在输掉这场战争。
+
+25
+00:01:40,000 --> 00:01:43,000
+Seven Ukrainians are being killed for every Russian.
+
+25
+00:01:40,000 --> 00:01:43,000
+每遇害一名俄罗斯人，就有七名乌克兰人被杀。
+
+26
+00:01:43,000 --> 00:01:46,000
+Ukrainian air defenses have been utterly degraded.
+
+26
+00:01:43,000 --> 00:01:46,000
+乌克兰的防空系统已完全退化。
+
+27
+00:01:46,000 --> 00:01:48,000
+Ukraine is losing.
+
+27
+00:01:46,000 --> 00:01:48,000
+乌克兰正在失败。
+
+28
+00:01:48,000 --> 00:01:52,000
+So, according to Tucker Carlson, the leaked presentation slides show
+
+28
+00:01:48,000 --> 00:01:52,000
+因此，根据塔克·卡尔森的说法，泄露的演示幻灯片显示
+
+29
+00:01:52,000 --> 00:01:57,000
+seven Ukrainians are being killed for every one Russian,
+
+29
+00:01:52,000 --> 00:01:57,000
+每杀死一名俄罗斯人就有七名乌克兰人被杀，
+
+30
+00:01:57,000 --> 00:02:00,000
+which would be a pretty shocking finding.
+
+30
+00:01:57,000 --> 00:02:00,000
+这将是一个非常令人震惊的发现。
+
+31
+00:02:00,000 --> 00:02:03,000
+If those figures were true, then it'd be pretty catastrophic for the Ukrainians
+
+31
+00:02:00,000 --> 00:02:03,000
+如果这些数字属实，那么这对乌克兰人来说将是灾难性的
+
+32
+00:02:03,000 --> 00:02:07,000
+because I'm not like a war expert, but when you defend your own land,
+
+32
+00:02:03,000 --> 00:02:07,000
+因为我不像战争专家 但当你保卫自己的土地时
+
+33
+00:02:07,000 --> 00:02:10,000
+you usually give a lot more casualties out than you take.
+
+33
+00:02:07,000 --> 00:02:10,000
+通常，你造成的伤亡比你承受的要多得多。
+
+34
+00:02:10,000 --> 00:02:13,000
+Arik Tola has been working on the leaked document story.
+
+34
+00:02:10,000 --> 00:02:13,000
+阿里克·托拉（Arik Tola）一直在研究泄露文件的故事。
+
+35
+00:02:13,000 --> 00:02:17,000
+He's director of research and training for Bellingcat,
+
+35
+00:02:13,000 --> 00:02:17,000
+他是 Bellingcat 的研究和培训总监，
+
+36
+00:02:17,000 --> 00:02:22,000
+an investigative journalism site that specializes in using open source intelligence.
+
+36
+00:02:17,000 --> 00:02:22,000
+专门使用开源情报的调查性新闻网站。
+
+37
+00:02:22,000 --> 00:02:25,000
+It's played a leading role in tracing the spread of the leaked documents
+
+37
+00:02:22,000 --> 00:02:25,000
+在追踪泄露文件的传播过程中发挥了主导作用
+
+38
+00:02:25,000 --> 00:02:29,000
+on social media platforms like Discord and Telegram.
+
+38
+00:02:25,000 --> 00:02:29,000
+在 Discord 和 Telegram 等社交媒体平台上。
+
+39
+00:02:29,000 --> 00:02:34,000
+The first job was to work out whether they really were US intelligence documents.
+
+39
+00:02:29,000 --> 00:02:34,000
+第一项工作是查明它们是否真的是美国情报文件。
+
+40
+00:02:34,000 --> 00:02:38,000
+They seemed legitimate, but there was one that appeared to have been altered.
+
+40
+00:02:34,000 --> 00:02:38,000
+它们看起来是合法的，但其中有一个似乎被改变了。
+
+41
+00:02:38,000 --> 00:02:41,000
+It was just one single document that was modified very crudely,
+
+41
+00:02:38,000 --> 00:02:41,000
+只是一份文件，修改得很粗糙，
+
+42
+00:02:41,000 --> 00:02:42,000
+and it's very obvious that it was fake.
+
+42
+00:02:41,000 --> 00:02:42,000
+而且很明显这是假的。
+
+43
+00:02:42,000 --> 00:02:47,000
+The fake document was the one that discussed Russian and Ukrainian casualties.
+
+43
+00:02:42,000 --> 00:02:47,000
+这份假文件讨论了俄罗斯和乌克兰的伤亡情况。
+
+44
+00:02:47,000 --> 00:02:51,000
+There is one single file that was modified related to casualty figures
+
+44
+00:02:47,000 --> 00:02:51,000
+有一个与伤亡数字相关的文件被修改
+
+45
+00:02:51,000 --> 00:02:53,000
+of the Ukrainian and Russian militaries.
+
+45
+00:02:51,000 --> 00:02:53,000
+乌克兰和俄罗斯军队。
+
+46
+00:02:53,000 --> 00:02:57,000
+This was modified over a month after the file was initially released on Discord,
+
+46
+00:02:53,000 --> 00:02:57,000
+该文件最初在 Discord 上发布后一个多月进行了修改，
+
+47
+00:02:57,000 --> 00:03:01,000
+and it was just some telegram channel, not like a Russian government source.
+
+47
+00:02:57,000 --> 00:03:01,000
+这只是一些电报频道，不像俄罗斯政府消息来源。
+
+48
+00:03:01,000 --> 00:03:07,000
+So this could be as simple as one pro-Russian user very crudely photoshopping
+
+48
+00:03:01,000 --> 00:03:07,000
+所以这可能就像一位亲俄罗斯用户非常粗鲁地进行修图一样简单
+
+49
+00:03:07,000 --> 00:03:12,000
+one section of one image to make Ukraine look worse and Russia look better.
+
+49
+00:03:07,000 --> 00:03:12,000
+一张图片的一部分让乌克兰看起来更糟，而俄罗斯看起来更好。
+
+50
+00:03:12,000 --> 00:03:15,000
+The numbers are off-center. They're not quite spaced correctly,
+
+50
+00:03:12,000 --> 00:03:15,000
+数字偏离中心。它们的间距不太正确，
+
+51
+00:03:15,000 --> 00:03:18,000
+and it's just kind of crude. It's as if I did it.
+
+51
+00:03:15,000 --> 00:03:18,000
+这有点粗糙。就好像我做到了一样。
+
+52
+00:03:18,000 --> 00:03:22,000
+So on the original, undocked image, the number of Russian troops killed
+
+52
+00:03:18,000 --> 00:03:22,000
+所以在原始的、未停靠的图像上，俄罗斯军队被杀的人数
+
+53
+00:03:22,000 --> 00:03:26,000
+is more than double the number of Ukrainian soldiers killed.
+
+53
+00:03:22,000 --> 00:03:26,000
+是乌克兰士兵阵亡人数的两倍多。
+
+54
+00:03:26,000 --> 00:03:30,000
+But on the crudely doctored slide, the Russian losses have been reduced
+
+54
+00:03:26,000 --> 00:03:30,000
+但在粗略修改的幻灯片上，俄罗斯的损失已经减少
+
+55
+00:03:30,000 --> 00:03:33,000
+and the Ukrainian troop deaths have been vastly increased.
+
+55
+00:03:30,000 --> 00:03:33,000
+乌克兰军队的死亡人数大幅增加。
+
+56
+00:03:33,000 --> 00:03:37,000
+So all of a sudden, Ukraine has a lot more deaths.
+
+56
+00:03:33,000 --> 00:03:37,000
+所以突然之间，乌克兰的死亡人数增加了很多。
+
+57
+00:03:37,000 --> 00:03:43,000
+But despite Tucker Carson saying the slides contain evidence of a 7 to 1 kill rate,
+
+57
+00:03:37,000 --> 00:03:43,000
+尽管塔克·卡森说幻灯片中包含 7 比 1 的杀灭率的证据，
+
+58
+00:03:43,000 --> 00:03:46,000
+even the doctored figures don't show that.
+
+58
+00:03:43,000 --> 00:03:46,000
+即使是经过篡改的数字也没有表明这一点。
+
+59
+00:03:46,000 --> 00:03:50,000
+We tried to get Fox News to give us any more information about this claim,
+
+59
+00:03:46,000 --> 00:03:50,000
+我们试图让福克斯新闻向我们提供有关此说法的更多信息，
+
+60
+00:03:50,000 --> 00:03:52,000
+but we received no response.
+
+60
+00:03:50,000 --> 00:03:52,000
+但我们没有收到任何回复。
+
+61
+00:03:52,000 --> 00:03:56,000
+Aric believes it doesn't matter whether the mistake was made by Carson
+
+61
+00:03:52,000 --> 00:03:56,000
+阿里克认为，错误是否是卡森所犯并不重要
+
+62
+00:03:56,000 --> 00:04:00,000
+or his producer, such an error should have been avoided.
+
+62
+00:03:56,000 --> 00:04:00,000
+或他的制作人，这样的错误本应避免。
+
+63
+00:04:00,000 --> 00:04:03,000
+If you're a producer on a TV show, you should theoretically be able to fact-check
+
+63
+00:04:00,000 --> 00:04:03,000
+如果您是电视节目的制片人，理论上您应该能够进行事实核查
+
+64
+00:04:03,000 --> 00:04:05,000
+the stuff that you're citing in your report,
+
+64
+00:04:03,000 --> 00:04:05,000
+你在报告中引用的内容
+
+65
+00:04:05,000 --> 00:04:08,000
+but some people are better at it than others, to put it politely.
+
+65
+00:04:05,000 --> 00:04:08,000
+但礼貌地说，有些人比其他人更擅长这件事。
+
+66
+00:04:08,000 --> 00:04:12,000
+Even if we can completely dismiss Tucker Carson's claim
+
+66
+00:04:08,000 --> 00:04:12,000
+即使我们可以完全驳回塔克·卡森的主张
+
+67
+00:04:12,000 --> 00:04:15,000
+about the casualty numbers in these leaked documents,
+
+67
+00:04:12,000 --> 00:04:15,000
+关于这些泄露的文件中的伤亡人数，
+
+68
+00:04:15,000 --> 00:04:19,000
+how reliable are the numbers that US intelligence are quoting?
+
+68
+00:04:15,000 --> 00:04:19,000
+美国情报部门引用的数字有多可靠？
+
+69
+00:04:19,000 --> 00:04:23,000
+The BBC's Russian service has been compiling a list of Russian service personnel
+
+69
+00:04:19,000 --> 00:04:23,000
+BBC俄罗斯频道正在编制一份俄罗斯军人名单
+
+70
+00:04:23,000 --> 00:04:25,000
+killed in the conflict.
+
+70
+00:04:23,000 --> 00:04:25,000
+在冲突中被杀。
+
+71
+00:04:25,000 --> 00:04:30,000
+Senior correspondent Olga Ishina says the US estimate of Russians killed in action,
+
+71
+00:04:25,000 --> 00:04:30,000
+高级记者奥尔加·伊希纳 (Olga Ishina) 表示，美国对在行动中阵亡的俄罗斯人的估计，
+
+72
+00:04:30,000 --> 00:04:35,000
+up to 43,500, seems to tally with their own work.
+
+72
+00:04:30,000 --> 00:04:35,000
+高达43,500，似乎与自己的工作相符。
+
+73
+00:04:35,000 --> 00:04:38,000
+She explained how they calculate their figures.
+
+73
+00:04:35,000 --> 00:04:38,000
+她解释了他们如何计算数字。
+
+74
+00:04:38,000 --> 00:04:42,000
+Our primary goal is to count all the Russian losses,
+
+74
+00:04:38,000 --> 00:04:42,000
+我们的首要目标是统计俄罗斯的所有损失，
+
+75
+00:04:42,000 --> 00:04:44,000
+so Russian personnel killed in action.
+
+75
+00:04:42,000 --> 00:04:44,000
+因此俄罗斯人员在行动中阵亡。
+
+76
+00:04:44,000 --> 00:04:48,000
+And we do so by gathering all the publicly available information.
+
+76
+00:04:44,000 --> 00:04:48,000
+我们通过收集所有公开信息来做到这一点。
+
+77
+00:04:48,000 --> 00:04:53,000
+So first of all, it's different media reports from different outlets in Russia,
+
+77
+00:04:48,000 --> 00:04:53,000
+首先，俄罗斯不同媒体的不同媒体报道，
+
+78
+00:04:53,000 --> 00:04:58,000
+heads of local schools, heads of local libraries, heads of villages,
+
+78
+00:04:53,000 --> 00:04:58,000
+当地学校的负责人、当地图书馆的负责人、村庄的负责人，
+
+79
+00:04:58,000 --> 00:05:00,000
+tiny regional newspapers.
+
+79
+00:04:58,000 --> 00:05:00,000
+小型地区报纸。
+
+80
+00:05:00,000 --> 00:05:03,000
+On top of that, we monitor Russian social media
+
+80
+00:05:00,000 --> 00:05:03,000
+最重要的是，我们监控俄罗斯社交媒体
+
+81
+00:05:03,000 --> 00:05:08,000
+and the relatives of a certain person who died during the invasion.
+
+81
+00:05:03,000 --> 00:05:08,000
+以及在入侵期间死亡的某个人的亲属。
+
+82
+00:05:08,000 --> 00:05:12,000
+And another very important source of information are different memorials,
+
+82
+00:05:08,000 --> 00:05:12,000
+另一个非常重要的信息来源是不同的纪念馆，
+
+83
+00:05:12,000 --> 00:05:15,000
+monuments and graveyards.
+
+83
+00:05:12,000 --> 00:05:15,000
+纪念碑和墓地。
+
+84
+00:05:15,000 --> 00:05:21,000
+So we have an opportunity to monitor the situation in over 60 cemeteries,
+
+84
+00:05:15,000 --> 00:05:21,000
+所以我们有机会监测60多个墓地的情况，
+
+85
+00:05:21,000 --> 00:05:23,000
+all over Russia.
+
+85
+00:05:21,000 --> 00:05:23,000
+整个俄罗斯。
+
+86
+00:05:23,000 --> 00:05:25,000
+So compiling that all together,
+
+86
+00:05:23,000 --> 00:05:25,000
+因此，将所有内容汇总在一起，
+
+87
+00:05:25,000 --> 00:05:31,000
+we currently have a database of 21,000 Russian servicemen
+
+87
+00:05:25,000 --> 00:05:31,000
+我们目前拥有 21,000 名俄罗斯军人的数据库
+
+88
+00:05:31,000 --> 00:05:34,000
+who were killed during the invasion.
+
+88
+00:05:31,000 --> 00:05:34,000
+在入侵期间被杀的人。
+
+89
+00:05:34,000 --> 00:05:37,000
+As we monitor the situation on the cemeteries,
+
+89
+00:05:34,000 --> 00:05:37,000
+当我们监测墓地的情况时，
+
+90
+00:05:37,000 --> 00:05:40,000
+we see that each time we get access there,
+
+90
+00:05:37,000 --> 00:05:40,000
+我们看到每次我们访问那里时，
+
+91
+00:05:40,000 --> 00:05:43,000
+we see all the names which were mentioned in the public domain.
+
+91
+00:05:40,000 --> 00:05:43,000
+我们看到了公共领域中提到的所有名称。
+
+92
+00:05:43,000 --> 00:05:47,000
+And on top of that, usually the similar amount of names,
+
+92
+00:05:43,000 --> 00:05:47,000
+最重要的是，通常有相似数量的名字，
+
+93
+00:05:47,000 --> 00:05:50,000
+which are clearly died during the invasion,
+
+93
+00:05:47,000 --> 00:05:50,000
+显然是在入侵期间死亡的，
+
+94
+00:05:50,000 --> 00:05:52,000
+but they weren't mentioned publicly.
+
+94
+00:05:50,000 --> 00:05:52,000
+但他们没有被公开提及。
+
+95
+00:05:52,000 --> 00:05:58,000
+Based on that, we think that our database has 50% less names
+
+95
+00:05:52,000 --> 00:05:58,000
+基于此，我们认为我们的数据库中的名称减少了 50%
+
+96
+00:05:58,000 --> 00:06:02,000
+than a real number of Russian military casualties figure,
+
+96
+00:05:58,000 --> 00:06:02,000
+比俄罗斯军事伤亡的真实数字，
+
+97
+00:06:02,000 --> 00:06:04,000
+which were buried in Russia.
+
+97
+00:06:02,000 --> 00:06:04,000
+被埋在俄罗斯。
+
+98
+00:06:04,000 --> 00:06:09,000
+So if currently we have names of 21,000 Russian soldiers killed in action,
+
+98
+00:06:04,000 --> 00:06:09,000
+因此，如果目前我们有 21,000 名在行动中阵亡的俄罗斯士兵的名字，
+
+99
+00:06:09,000 --> 00:06:13,000
+our assessment is that total number of Russian casualties,
+
+99
+00:06:09,000 --> 00:06:13,000
+我们的评估是俄罗斯的伤亡总数
+
+100
+00:06:13,000 --> 00:06:17,000
+so killed only, must be around 42,000.
+
+100
+00:06:13,000 --> 00:06:17,000
+如此算来，仅被杀的，必定有42,000人左右。
+
+101
+00:06:17,000 --> 00:06:21,000
+Fox News itself has been in the headlines in the last few days.
+
+101
+00:06:17,000 --> 00:06:21,000
+福克斯新闻本身在过去几天一直成为头条新闻。
+
+102
+00:06:21,000 --> 00:06:25,000
+It was due to defend itself in a giant defamation case
+
+102
+00:06:21,000 --> 00:06:25,000
+是为了在一场巨大的诽谤案中为自己辩护
+
+103
+00:06:25,000 --> 00:06:27,000
+brought by Dominion Voting Systems,
+
+103
+00:06:25,000 --> 00:06:27,000
+由 Dominion 投票系统带来，
+
+104
+00:06:27,000 --> 00:06:29,000
+who alleged that Fox aired false claims
+
+104
+00:06:27,000 --> 00:06:29,000
+谁指控福克斯发布虚假声明
+
+105
+00:06:29,000 --> 00:06:33,000
+that Dominion's voting machines helped steal the election from Donald Trump.
+
+105
+00:06:29,000 --> 00:06:33,000
+多米尼恩的投票机帮助从唐纳德·特朗普手中窃取了选举结果。
+
+106
+00:06:33,000 --> 00:06:36,000
+The case was settled at the last minute,
+
+106
+00:06:33,000 --> 00:06:36,000
+案件在最后一刻得到了解决，
+
+107
+00:06:36,000 --> 00:06:38,000
+but the day before it was due to start,
+
+107
+00:06:36,000 --> 00:06:38,000
+但在活动开始的前一天，
+
+108
+00:06:38,000 --> 00:06:43,000
+Fox News took out a full page ad in the New York Times with the headline,
+
+108
+00:06:38,000 --> 00:06:43,000
+福克斯新闻在《纽约时报》上刊登了一整版广告，标题是：
+
+109
+00:06:43,000 --> 00:06:45,000
+"Trusted Now More Than Ever".
+
+109
+00:06:43,000 --> 00:06:45,000
+“现在比以往任何时候都更值得信赖”。
+
+110
+00:06:45,000 --> 00:06:51,000
+It then goes on to list what it says are the TV networks most trusted for news.
+
+110
+00:06:45,000 --> 00:06:51,000
+然后，它继续列出了最值得信赖的新闻电视网络。
+
+111
+00:06:51,000 --> 00:06:55,000
+Fox News itself is at the top of the bar chart with 41%,
+
+111
+00:06:51,000 --> 00:06:55,000
+福克斯新闻本身以 41% 的收视率位居条形图榜首，
+
+112
+00:06:55,000 --> 00:07:01,000
+trailed by ABC News on 24%, CNN and CBS on 22%,
+
+112
+00:06:55,000 --> 00:07:01,000
+紧随其后的是 ABC News（24%）、CNN 和 CBS（22%），
+
+113
+00:07:01,000 --> 00:07:06,000
+NBC on 21% and MSNBC on 18%.
+
+113
+00:07:01,000 --> 00:07:06,000
+NBC 为 21%，MSNBC 为 18%。
+
+114
+00:07:06,000 --> 00:07:08,000
+So you might think that's pretty clear.
+
+114
+00:07:06,000 --> 00:07:08,000
+所以你可能认为这很清楚。
+
+115
+00:07:08,000 --> 00:07:12,000
+If you ask Americans which news channel they trust the most,
+
+115
+00:07:08,000 --> 00:07:12,000
+如果你问美国人他们最信任哪个新闻频道，
+
+116
+00:07:12,000 --> 00:07:14,000
+the answer is Fox News.
+
+116
+00:07:12,000 --> 00:07:14,000
+答案是福克斯新闻。
+
+117
+00:07:14,000 --> 00:07:17,000
+But actually, that is the opposite of what you find
+
+117
+00:07:14,000 --> 00:07:17,000
+但实际上，这与你发现的相反
+
+118
+00:07:17,000 --> 00:07:21,000
+according to Elliot Morris, a senior data journalist for The Economist.
+
+118
+00:07:17,000 --> 00:07:21,000
+《经济学人》高级数据记者埃利奥特·莫里斯 (Elliot Morris) 表示。
+
+119
+00:07:21,000 --> 00:07:25,000
+If you just ask Americans, which news network do you trust the most,
+
+119
+00:07:21,000 --> 00:07:25,000
+如果你问美国人，你最信任哪个新闻网络，
+
+120
+00:07:25,000 --> 00:07:28,000
+then Fox News actually scores very poorly.
+
+120
+00:07:25,000 --> 00:07:28,000
+那么福克斯新闻实际上得分非常低。
+
+121
+00:07:28,000 --> 00:07:32,000
+Whereas things like the BBC, ABC, CNN,
+
+121
+00:07:28,000 --> 00:07:32,000
+而 BBC、ABC、CNN 等
+
+122
+00:07:32,000 --> 00:07:37,000
+have about 40% of Americans saying those sources are very trustworthy
+
+122
+00:07:32,000 --> 00:07:37,000
+大约 40% 的美国人表示这些消息来源非常值得信赖
+
+123
+00:07:37,000 --> 00:07:41,000
+or somewhat trustworthy, Fox News scores closer to 30%.
+
+123
+00:07:37,000 --> 00:07:41,000
+或者说值得信赖的是，福克斯新闻的得分接近 30%。
+
+124
+00:07:41,000 --> 00:07:45,000
+And they have a lot more Americans saying they're untrustworthy
+
+124
+00:07:41,000 --> 00:07:45,000
+还有更多美国人说他们不值得信任
+
+125
+00:07:45,000 --> 00:07:47,000
+than those mainstream news sources.
+
+125
+00:07:45,000 --> 00:07:47,000
+比那些主流新闻来源。
+
+126
+00:07:47,000 --> 00:07:50,000
+So the reality seems to be pretty significantly different
+
+126
+00:07:47,000 --> 00:07:50,000
+所以现实似乎有很大不同
+
+127
+00:07:50,000 --> 00:07:52,000
+than the advertisement they took out.
+
+127
+00:07:50,000 --> 00:07:52,000
+比他们拿出来的广告。
+
+128
+00:07:52,000 --> 00:07:56,000
+So how does the advertisement suggest something so different?
+
+128
+00:07:52,000 --> 00:07:56,000
+那么广告是如何暗示如此不同的东西的呢？
+
+129
+00:07:56,000 --> 00:07:58,000
+Well, look at the small print.
+
+129
+00:07:56,000 --> 00:07:58,000
+嗯，看看小字。
+
+130
+00:07:58,000 --> 00:08:01,000
+It seems what Fox News has done is not ask one question,
+
+130
+00:07:58,000 --> 00:08:01,000
+看来福克斯新闻所做的并不是问一个问题，
+
+131
+00:08:01,000 --> 00:08:02,000
+but two questions.
+
+131
+00:08:01,000 --> 00:08:02,000
+但有两个问题。
+
+132
+00:08:02,000 --> 00:08:05,000
+Which of the following networks do you watch?
+
+132
+00:08:02,000 --> 00:08:05,000
+您观看以下哪些网络？
+
+133
+00:08:05,000 --> 00:08:07,000
+And then they've listed all of the major news networks,
+
+133
+00:08:05,000 --> 00:08:07,000
+然后他们列出了所有主要的新闻网络，
+
+134
+00:08:07,000 --> 00:08:10,000
+so Fox, ABC, CNN, Riot, a couple of others.
+
+134
+00:08:07,000 --> 00:08:10,000
+福克斯、美国广播公司、美国有线电视新闻网、Riot 等。
+
+135
+00:08:10,000 --> 00:08:13,000
+And then, well, they don't tell us how they did this,
+
+135
+00:08:10,000 --> 00:08:13,000
+然后，好吧，他们没有告诉我们他们是如何做到的，
+
+136
+00:08:13,000 --> 00:08:16,000
+but my read of them asking the second question is,
+
+136
+00:08:13,000 --> 00:08:16,000
+但我读到他们问第二个问题是，
+
+137
+00:08:16,000 --> 00:08:20,000
+among people who said they watched Fox News,
+
+137
+00:08:16,000 --> 00:08:20,000
+在那些自称看过福克斯新闻的人中，
+
+138
+00:08:20,000 --> 00:08:23,000
+they then asked which news network do you trust the most.
+
+138
+00:08:20,000 --> 00:08:23,000
+然后他们问你最信任哪个新闻网络。
+
+139
+00:08:23,000 --> 00:08:25,000
+And of course, if you watch Fox News,
+
+139
+00:08:23,000 --> 00:08:25,000
+当然，如果你看福克斯新闻，
+
+140
+00:08:25,000 --> 00:08:28,000
+it's one of the only pretty mainstream, right-leaning news networks in America.
+
+140
+00:08:25,000 --> 00:08:28,000
+它是美国唯一相当主流、右倾的新闻网络之一。
+
+141
+00:08:28,000 --> 00:08:30,000
+You probably don't trust the other news networks,
+
+141
+00:08:28,000 --> 00:08:30,000
+你可能不信任其他新闻网络，
+
+142
+00:08:30,000 --> 00:08:33,000
+which you think are too centrist or left-leaning.
+
+142
+00:08:30,000 --> 00:08:33,000
+您认为过于中间派或左倾。
+
+143
+00:08:33,000 --> 00:08:36,000
+So, Elliot's take on the advert is,
+
+143
+00:08:33,000 --> 00:08:36,000
+所以，埃利奥特对这则广告的看法是，
+
+144
+00:08:36,000 --> 00:08:38,000
+it shows Fox News is the kind of news channel
+
+144
+00:08:36,000 --> 00:08:38,000
+它表明福克斯新闻是这样的新闻频道
+
+145
+00:08:38,000 --> 00:08:42,000
+that attracts an audience that agrees with its political outlook and trusts it.
+
+145
+00:08:38,000 --> 00:08:42,000
+这吸引了认同其政治观点并信任它的观众。
+
+146
+00:08:42,000 --> 00:08:45,000
+It's the most trusted channel by its audience,
+
+146
+00:08:42,000 --> 00:08:45,000
+这是观众最信任的频道，
+
+147
+00:08:45,000 --> 00:08:49,000
+but one of the least trusted by the general population.
+
+147
+00:08:45,000 --> 00:08:49,000
+但也是最不受大众信任的国家之一。
+
+148
+00:08:49,000 --> 00:08:51,000
+We asked Fox News about the advert.
+
+148
+00:08:49,000 --> 00:08:51,000
+我们向福克斯新闻询问了这则广告。
+
+149
+00:08:51,000 --> 00:08:54,000
+They told us that the data is from YouGov.
+
+149
+00:08:51,000 --> 00:08:54,000
+他们告诉我们这些数据来自 YouGov。
+
+150
+00:08:54,000 --> 00:08:57,000
+We approached the Pwning Company, who say the data used
+
+150
+00:08:54,000 --> 00:08:57,000
+我们联系了 Pwning 公司，他们说所使用的数据
+
+151
+00:08:57,000 --> 00:09:01,000
+is for media companies to learn more about their audiences only.
+
+151
+00:08:57,000 --> 00:09:01,000
+仅供媒体公司更多地了解其受众。
+
+152
+00:09:01,000 --> 00:09:06,000
+And these are not the results of any recent, nationally representative survey.
+
+152
+00:09:01,000 --> 00:09:06,000
+这些并不是最近任何具有全国代表性的调查的结果。
+
+153
+00:09:06,000 --> 00:09:08,000
+That's it for this edition of More or Less.
+
+153
+00:09:06,000 --> 00:09:08,000
+这就是本期《或多或少》的内容。
+
+154
+00:09:08,000 --> 00:09:10,000
+We'll be back next week.
+
+154
+00:09:08,000 --> 00:09:10,000
+我们下周回来。
+
+155
+00:09:10,000 --> 00:09:16,000
+If you want to get in contact, you can email us at moreorless@bbc.co.uk.
+
+155
+00:09:10,000 --> 00:09:16,000
+如果您想联系我们，可以发送电子邮件至 moreorless@bbc.co.uk。
+
+156
+00:09:16,000 --> 00:09:18,000
+But for now, goodbye.
+
+156
+00:09:16,000 --> 00:09:18,000
+但现在，再见。
+
+157
+00:09:23,000 --> 00:09:29,000
+Exploring the events shaping our lives through original documentary storytelling.
+
+157
+00:09:23,000 --> 00:09:29,000
+通过原创纪录片故事讲述塑造我们生活的事件。
+
+158
+00:09:29,000 --> 00:09:32,000
+We'll hear arguments of a role against we.
+
+158
+00:09:29,000 --> 00:09:32,000
+我们会听到反对我们的角色的争论。
+
+159
+00:09:32,000 --> 00:09:37,000
+The documentary from the BBC World Service is a window onto the wider world.
+
+159
+00:09:32,000 --> 00:09:37,000
+这部来自 BBC World Service 的纪录片是了解更广阔世界的一扇窗户。
+
+160
+00:09:37,000 --> 00:09:43,000
+The security situation in Europe has changed in the last couple of years, dramatically.
+
+160
+00:09:37,000 --> 00:09:43,000
+过去几年，欧洲的安全局势发生了巨大变化。
+
+161
+00:09:43,000 --> 00:09:48,000
+Search for the documentary wherever you get your BBC podcasts.
+
+161
+00:09:43,000 --> 00:09:48,000
+无论您在何处获取 BBC 播客，都可以搜索该纪录片。
+
+162
+00:09:49,000 --> 00:09:50,000
+[music ends]
+
+162
+00:09:49,000 --> 00:09:50,000
+[音乐结束]
+

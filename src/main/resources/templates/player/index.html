@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <link rel="stylesheet" th:href="@{/static/lib/mediaelementplayer.css}" />
+    <link rel="stylesheet" th:href="@{/static/lib/bootstrap.min.css}" />
+    <script type="text/javascript" th:src="@{/static/lib/jquery.min.js}"></script>
+    <script type="text/javascript" th:src="@{/static/lib/mediaelement-and-player.js}"></script>
+    <script type="text/javascript" th:src="@{/static/lib/bootstrap.min.js}"></script>
+
+
+
+    
+    <style>
+        html {
+            padding: 0;
+            margin: 0;
+            font-size: 16px;
+        }
+        body {
+            padding: 0;
+            margin: 0;
+            font-size: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="position: absolute; bottom:0;">
+        <audio id="player2" preload="none" controls style="max-width:99%;">
+            <source th:src="@{'/stream-audio?id=' + ${id}}" type="audio/mp3">
+        </audio>
+    </div>
+    <div class="container">
+        <div>
+            1231
+            123
+            123
+            123
+            123
+            123
+            123
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+
+        var player2 = new MediaElementPlayer('player2', {
+            success: function (mediaElement, originalNode) {
+                console.log("Player initialised");
+
+            }, 
+            stretching: "responsive",
+            enableAutosize: false,
+            defaultAudioHeight: 40
+        });
+
+        setInterval(function () {
+            console.log("currentTime", player2.getCurrentTime())
+        }, 1000)
+
+
+
+    </script>
+</body>
+
+</html>

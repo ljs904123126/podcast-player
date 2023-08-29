@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>梅哈哈</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="stylesheet" th:href="@{/static/lib/bootstrap.min.css}" />
+    <script type="text/javascript" th:src="@{/static/lib/jquery.min.js}"></script>
+    <script type="text/javascript" th:src="@{/static/lib/bootstrap.min.js}"></script>
+</head>
+<body>
+<div class="container">
+    <!-- Content here -->
+    <h3>最近更新</h3>
+    <div class="list-group">
+        <a th:each="episode : ${episodes}" th:href="@{'/player/index?id=' + ${episode.episodeId}}" class="list-group-item" th:text="${episode.episodeName}">First item</a>
+    </div>
+</div>
+
+</body>
+</html>

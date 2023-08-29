@@ -704,7 +704,7 @@ var MediaElement = function MediaElement(idOrNode, options, sources) {
 
 		fakeNodeName: 'div',
 
-		iconSprite: 'mejs-controls.svg'
+		iconSprite: '/static/lib/mejs-controls.svg'
 	};
 
 	options = Object.assign(t.defaults, options);

@@ -1,0 +1,4 @@
+podcast:
+  basic-path: /data/
+server:
+  port: 8080

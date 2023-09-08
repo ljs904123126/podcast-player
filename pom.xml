@@ -18,10 +18,10 @@
     </properties>
     <dependencies>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter-security</artifactId>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>com.baomidou</groupId>
@@ -107,6 +107,17 @@
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-queryparser</artifactId>
             <version>8.11.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.hankcs.nlp</groupId>
+            <artifactId>hanlp-lucene-plugin</artifactId>
+            <version>1.1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.8</version> <!-- 根据最新版本进行更改 -->
         </dependency>
     </dependencies>
 
